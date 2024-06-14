@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Immigration au Canada</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        header {
+            background: #004080;
+            color: white;
+            padding: 1em 0;
+            text-align: center;
+        }
+        nav {
+            background: #003366;
+            padding: 0.5em 0;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 1em;
+            text-decoration: none;
+        }
+        main {
+            padding: 2em;
+        }
+        section {
+            margin-bottom: 2em;
+        }
+        footer {
+            background: #004080;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Immigration au Canada</h1>
+</header>
+
+<nav>
+    <a href="#programmes">Programmes d'immigration</a>
+    <a href="#processus">Processus de demande</a>
+    <a href="#ressources">Ressources utiles</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<main>
+    <section id="programmes">
+        <h2>Programmes d'immigration</h2>
+        <p>Le Canada offre plusieurs programmes d'immigration pour différentes catégories de candidats, notamment :</p>
+        <ul>
+            <li>Entrée express</li>
+            <li>Parrainage familial</li>
+            <li>Programme des travailleurs qualifiés du Québec</li>
+            <li>Programme des candidats des provinces</li>
+            <li>Programme d'immigration des investisseurs</li>
+        </ul>
+    </section>
+
+    <section id="processus">
+        <h2>Processus de demande</h2>
+        <p>Le processus de demande d'immigration au Canada comprend généralement les étapes suivantes :</p>
+        <ol>
+            <li>Déterminer votre admissibilité</li>
+            <li>Préparer vos documents</li>
+            <li>Soumettre une demande en ligne</li>
+            <li>Payer les frais requis</li>
+            <li>Attendre la décision et, si approuvé, préparer votre arrivée</li>
+        </ol>
+    </section>
+
+    <section id="ressources">
+        <h2>Ressources utiles</h2>
+        <p>Voici quelques ressources utiles pour vous aider dans votre parcours d'immigration :</p>
+        <ul>
+            <li><a href="https://www.canada.ca/fr/services/immigration-citoyennete.html" target="_blank">Site officiel de l'immigration et de la citoyenneté au Canada</a></li>
+            <li><a href="https://www.canada.ca/fr/immigration-refugies-citoyennete/services/immigrer-canada.html" target="_blank">Guide d'immigration</a></li>
+            <li><a href="https://www.cic.gc.ca/francais/index.asp" target="_blank">Citoyenneté et Immigration Canada</a></li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Pour toute question ou assistance, veuillez contacter le service d'immigration au Canada :</p>
+        <p>Email: <a href="mailto:cicpaymentdepartment@gmail.com">cicpaymentdepartment@gmail.com</a></p>
+        <p>WhatsApp: +17705203291</p>
+    </section>
+</main>
+
+<footer>
+    &copy; 2024 Immigration Canada. Tous droits réservés.
+</footer>
+
+</body>
+</html>
+
